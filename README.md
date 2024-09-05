@@ -7,7 +7,16 @@
 
 ## My Sites
 
-- https://wisky-home.netlify.app/ - Ultimo site
-- https://lojagames.netlify.app/
-- https://sampa2077.netlify.app/
-- https://gamesretro.netlify.app/
+- 🌐 [Wisky Home](https://wisky-home.netlify.app/) - Ultimo site Desenvolvido.
+- 🌐 [Loja games](https://lojagames.netlify.app/)
+- 🌐 [Sampa2077](https://sampa2077.netlify.app/) - Site feito para Competição do primeiro ano da fiap
+- 🌐 [Games Retro](https://gamesretro.netlify.app/) 
+
+- 🛠️ Ferramentas Usadas:
+  - **VS Code** - Editor de código poderoso e flexível.
+  - **Git** - Controle de versão para colaboração eficiente.
+- Linguagens
+  - **HTML**
+  - **CSS**
+
+- 📧 [Entre em Contato](mailto:matheus.ge.si@gmail.com)
