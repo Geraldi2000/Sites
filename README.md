@@ -11,9 +11,11 @@
 - 🌐 [Loja games](https://lojagames.netlify.app/)
 - 🌐 [Sampa2077](https://sampa2077.netlify.app/) - Site feito para Competição do primeiro ano da fiap
 - 🌐 [Games Retro](https://gamesretro.netlify.app/) 
+- 🌐 [Figma Spotify](https://www.figma.com/proto/nuLMu8Xd5xqzEsPSnOeyND/Spotfy?node-id=0-1&t=O9Fjt0ZuFu1XG4eH-1) 
 
 - 🛠️ Ferramentas Usadas:
   - **VS Code** - Editor de código poderoso e flexível.
+  - **FIGMA** - Ferramenta de design e prototipação.
   - **Git** - Controle de versão para colaboração eficiente.
 - Linguagens
   - **HTML**
