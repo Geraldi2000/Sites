@@ -10,8 +10,9 @@
 - 🌐 [Wisky Home](https://wisky-home.netlify.app/) - Ultimo site Desenvolvido.
 - 🌐 [Loja games](https://lojagames.netlify.app/)
 - 🌐 [Sampa2077](https://sampa2077.netlify.app/) - Site feito para Competição do primeiro ano da fiap
-- 🌐 [Games Retro](https://gamesretro.netlify.app/) 
-- 🌐 [Figma Spotify](https://www.figma.com/proto/nuLMu8Xd5xqzEsPSnOeyND/Spotfy?node-id=0-1&t=O9Fjt0ZuFu1XG4eH-1) 
+- 🌐 [Games Retro](https://gamesretro.netlify.app/)
+## Prototipos Figma
+- 💻 [Figma Spotify](https://www.figma.com/proto/nuLMu8Xd5xqzEsPSnOeyND/Spotfy?node-id=0-1&t=O9Fjt0ZuFu1XG4eH-1) - Prototipo do soptify
 
 - 🛠️ Ferramentas Usadas:
   - **VS Code** - Editor de código poderoso e flexível.
